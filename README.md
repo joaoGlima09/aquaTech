@@ -1,2 +1,2 @@
-# aquaTech
-Projeto de monitoramento de aquários.
+# Aquatech
+Projeto de monitoramento de aquários
